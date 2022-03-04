@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @drdavide
+- https://drdavide.github.io/pages/
 - 👀 I’m interested in ontologies, knowledge graph, RDF, digital twins, and engineering.
 - 🌱 I’m currently doing my PhD at Cranfield University (UK) on digital engineering
 
